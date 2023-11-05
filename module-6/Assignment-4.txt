@@ -1,0 +1,70 @@
+Advanced Animation Techniques
+
+Objective: Explore advanced animation techniques to bring scenes to life using Three.js.
+
+Instructions:
+
+In this assignment, you will challenge students to delve into advanced animation techniques using Three.js to create smooth and convincing animations. The objective is to choose a specific animation challenge, such as character rigging and animation, morph targets, or skeletal animation, and implement advanced techniques to bring objects or characters within the scene to life.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Choose an Animation Challenge:
+
+Challenge students to choose a specific animation challenge. They can select one of the following (or a similar advanced animation technique):
+Character rigging and animation
+Morph targets (also known as shape keys)
+Skeletal animation (with bones and skinning)
+Implement Advanced Animation Techniques:
+
+Instruct students to implement the chosen animation challenge within their Three.js scene.
+For character rigging and animation, students should create a character model with a skeleton and animate it realistically.
+For morph targets, students should create and animate objects with morph targets to achieve complex shape transformations.
+For skeletal animation, students should rig and animate characters or creatures with bone structures and skinning.
+Smooth and Convincing Animations:
+
+Encourage students to focus on creating animations that are smooth, convincing, and enhance the overall realism or creativity of the scene.
+Pay attention to details like joint movements, facial expressions (if applicable), and timing.
+User Interaction (Optional):
+
+If desired, students can implement user interaction features that allow users to trigger or control the animations.
+Testing:
+
+Students should test their advanced animations on different browsers and devices to ensure they are smooth and convincing.
+Documentation:
+
+Create a README.md file in your project directory describing the chosen animation challenge, the techniques used, and how the animations were implemented.
+Include any challenges faced and how they were overcome.
+Provide clear instructions on how to run the code.
+Submission:
+
+Compress all project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment4_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Choice of Animation Challenge: Did you choose a specific animation challenge (e.g., character rigging, morph targets, skeletal animation) and clearly describe it in your documentation?
+
+Implementation of Advanced Techniques: Did you successfully implement advanced animation techniques related to the chosen challenge?
+
+Smooth and Convincing Animations: Did you create animations that are smooth, convincing, and enhance the realism or creativity of the scene?
+
+User Interaction (Optional): If included, does the user interaction enhance the assignment and make it more engaging?
+
+Testing: Are the advanced animations smooth and functional on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to apply advanced animation techniques to bring scenes to life?
+
+Submission: Did you submit all required project files in the specified format?

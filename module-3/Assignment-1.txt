@@ -1,0 +1,60 @@
+Create a 3D Cube
+
+Objective: Create a 3D cube using Three.js.
+
+Instructions:
+
+In this assignment, you will begin your journey with Three.js by creating a simple 3D cube object. You will set up a basic HTML page with a Three.js environment and experiment with different cube dimensions and colors.
+
+Requirements:
+
+Setup:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the 3D cube.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+3D Cube Assignment:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Create a scene, a camera, and a renderer.
+Create a 3D cube object within the scene. You can use the BoxGeometry for the cube's geometry.
+Cube Dimensions:
+
+Experiment with different cube dimensions (e.g., width, height, depth) to change the size and proportions of the cube. Observe how these changes affect the cube's appearance.
+Cube Colors:
+
+Apply different colors to the cube using materials. You can use predefined materials like MeshBasicMaterial, MeshLambertMaterial, or create custom materials with varying colors.
+Rendering:
+
+Set up the rendering loop to continuously render the scene on the canvas.
+Ensure that the cube is correctly displayed and responds to user input.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the cube dimensions you experimented with, the colors you applied, and any challenges you faced.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment1_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+3D Cube Creation: Did you successfully create a 3D cube using Three.js?
+
+Cube Dimensions: Did you experiment with different cube dimensions to understand how they affect the cube's size and proportions?
+
+Cube Colors: Did you apply different colors to the cube, and did you experiment with different materials?
+
+Rendering: Is the cube correctly rendered on the canvas, and does it respond to user input?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to change the cube's appearance using dimensions and colors?
+
+Submission: Did you submit all required project files in the specified format?

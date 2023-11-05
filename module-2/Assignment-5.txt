@@ -1,0 +1,62 @@
+Texture Mapping
+
+Objective: Apply texture mapping to 3D objects using Three.js.
+
+Instructions:
+
+In this assignment, you will learn how to apply texture mapping to 3D objects in Three.js. You will be assigned a 3D object (e.g., a cube or sphere) without textures, and your task is to find or create a suitable texture image (e.g., wood grain, stone) and apply it to the object using UV mapping. Additionally, you are encouraged to experiment with different textures and mapping techniques to enhance your understanding.
+
+Requirements:
+
+Setup:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the 3D object with texture.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+3D Object Assignment:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Create a scene, a camera, and a renderer.
+You will be assigned a specific 3D object (e.g., cube or sphere) to work with. Ensure that you have the basic object created without any textures applied.
+Texture Acquisition:
+
+Find or create a texture image that you think would suit the assigned 3D object. You can use resources like texture websites, image editing software, or create your own custom texture.
+UV Mapping:
+
+Apply the texture to the 3D object using UV mapping techniques. Ensure that the texture is correctly mapped to the object's geometry.
+Experimentation:
+
+Experiment with different textures and mapping techniques. You can try variations of your assigned object with different textures to explore how they affect the visual appearance.
+Rendering:
+
+Set up the rendering loop to continuously render the scene on the canvas.
+Ensure that the object responds to user input and updates accordingly.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the assigned 3D object, the texture you applied, and any experimentation you performed.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Texture Mapping: Did you successfully apply the texture to the assigned 3D object using UV mapping techniques?
+
+Experimentation: Did you experiment with different textures and mapping techniques, and did you document your findings?
+
+Rendering: Is the 3D object correctly rendered on the canvas with the applied texture?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to enhance the visual appearance of the 3D object using textures?
+
+Submission: Did you submit all required project files in the specified format?

@@ -1,0 +1,52 @@
+Forum Participation
+
+Objective: Engage with the Three.js community by participating in forums.
+
+Instructions:
+
+In this assignment, you will instruct students to actively engage with the Three.js community by participating in popular forums or community platforms dedicated to Three.js, such as Stack Overflow or the Three.js Discourse. The objective is to encourage students to share knowledge, seek help on challenging topics, and gain insights from the larger community. Students should document their forum interactions and summarize the key takeaways from their discussions.
+
+Requirements:
+
+Selecting a Forum or Community Platform:
+
+Instruct students to choose a popular Three.js forum or community platform where developers discuss Three.js-related topics. Examples include Stack Overflow (tagged with the "three.js" tag) and the official Three.js Discourse forum.
+Actively Participating in Discussions:
+
+Task students with actively participating in discussions on the chosen platform. They should:
+Answer questions from other community members, providing helpful solutions and explanations.
+Share their knowledge and expertise by contributing informative posts or tutorials related to Three.js.
+Seek assistance or insights on challenging Three.js topics they encounter in their own projects.
+Documentation of Forum Interactions:
+
+Encourage students to document their forum interactions. They should keep a log or record of the discussions they participate in, including the questions they answer and the topics they explore.
+Summarizing Key Takeaways:
+
+Instruct students to summarize the key takeaways and lessons learned from their forum interactions. They should identify any patterns or recurring issues in the questions asked and the solutions provided.
+Encourage them to reflect on how their participation in the Three.js community forums has contributed to their own learning and skill development.
+Reflection:
+
+Have students reflect on the importance of community engagement in the field of web development, particularly in learning and problem-solving.
+Submission:
+
+Prepare a document (e.g., a PDF or a Google Docs file) that includes the following:
+
+A summary of the forum interactions, including links to the discussions they participated in.
+A reflection on the lessons learned and the value of community engagement in the development field.
+Name the document as Assignment1_YourName.pdf or Assignment1_YourName.docx.
+
+Submit the document to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Active Participation: Did you actively participate in discussions on the chosen Three.js forum or community platform?
+
+Helpful Contributions: Did you provide helpful solutions, explanations, and insights in your forum interactions?
+
+Documentation: Did you document your forum interactions, including links to discussions and summaries of key takeaways?
+
+Reflection: Did you provide a thoughtful reflection on the importance of community engagement in web development and how it benefited your learning?
+
+Submission: Did you submit the document in the specified format with the correct naming convention?

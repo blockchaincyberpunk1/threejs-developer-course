@@ -1,0 +1,54 @@
+Interactive 3D Objects
+
+Objective: Make 3D objects interactive using Three.js.
+
+Instructions:
+
+In this assignment, you will take your Three.js skills to the next level by adding interactivity to your 3D objects. You will implement mouse or touch controls that allow users to interact with and manipulate the objects, such as rotation and scaling. Additionally, you are encouraged to provide a user-friendly interface to enhance the overall user experience.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignments (Assignment 1, Assignment 2, Assignment 3, and Assignment 4).
+Add Interactive Elements:
+
+In your script.js file, import the necessary Three.js modules or additional libraries (e.g., OrbitControls) to enable interactive controls.
+Implement interactivity for at least one 3D object in your scene. You can choose to allow users to perform actions such as:
+Rotation: Enable users to rotate the object using mouse or touch input.
+Scaling: Allow users to scale the object up or down interactively.
+Translation: Implement object movement in response to user input.
+User-Friendly Interface:
+
+Create a user-friendly interface within the web page to provide clear instructions on how to interact with the 3D objects. Include text or visual cues to guide users on using interactive controls.
+Testing:
+
+Test your interactive 3D scene on different browsers and devices to ensure it functions correctly and is user-friendly.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the interactive elements you added, and the user interface you created.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Interactive Elements: Did you successfully implement interactive controls for at least one 3D object, such as rotation, scaling, or translation?
+
+User-Friendly Interface: Did you provide clear and user-friendly instructions within the web page for interacting with the 3D objects?
+
+Testing: Is the interactive 3D scene functional and user-friendly on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the interactive 3D objects engaging for users?
+
+Submission: Did you submit all required project files in the specified format?

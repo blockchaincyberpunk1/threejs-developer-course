@@ -1,0 +1,59 @@
+Camera Movement and Controls
+
+Objective: Implement camera controls for user interaction in Three.js.
+
+Instructions:
+
+In this assignment, you will learn how to implement camera controls to allow users to navigate and explore a scene with multiple 3D objects. You will choose from various camera control options, customize the camera's initial position, rotation, and zoom level, and provide an interactive experience.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Adding 3D Objects:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Add at least three different types of 3D objects (e.g., cube, sphere, and plane) to your scene using the BoxGeometry, SphereGeometry, and PlaneGeometry classes.
+Camera Controls:
+
+Implement camera controls to enable user interaction. You can choose from the following options (or explore others):
+Orbit Controls: Implement controls that allow users to orbit around a central point, zoom in and out, and pan across the scene.
+First-Person Controls: Create controls that simulate a first-person perspective, allowing users to move forward, backward, and rotate the camera.
+Customization:
+
+Customize the initial position, rotation, and zoom level of the camera to provide an interesting starting point for users.
+Testing:
+
+Test your interactive scene with camera controls on different browsers and devices to ensure it functions correctly and provides a smooth user experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the camera controls you implemented, and any customization you applied.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment1_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Camera Controls: Did you successfully implement camera controls (e.g., orbit controls, first-person controls) for user interaction?
+
+Customization: Did you customize the camera's initial position, rotation, and zoom level to create an interesting starting point for users?
+
+Testing: Is the interactive scene with camera controls functional and providing a smooth user experience on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to provide an interactive and engaging experience in your scene?
+
+Submission: Did you submit all required project files in the specified format?

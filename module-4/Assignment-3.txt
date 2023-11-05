@@ -1,0 +1,55 @@
+Keyframe Animation
+
+Objective: Implement keyframe animations in Three.js.
+
+Instructions:
+
+In this assignment, you will explore the concept of keyframe animation in Three.js. You will choose a 3D object in your scene to animate and create a keyframe animation that changes the object's position, rotation, or scale over time. Additionally, you will experiment with easing functions to ensure smooth and visually appealing animations.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignments (Assignment 1: Camera Movement and Controls and Assignment 2: Advanced Lighting Effects).
+Select an Object to Animate:
+
+In your script.js file, choose a 3D object in your scene that you want to animate. It can be any object you've added to your scene, such as a cube, sphere, or custom model.
+Keyframe Animation:
+
+Create a keyframe animation for the selected object. Your animation should include at least three keyframes that change the object's properties (position, rotation, or scale) over time. You can use the TweenMax library or other animation libraries if you prefer.
+Easing Functions:
+
+Experiment with different easing functions to control the animation's timing and smoothness. You can use easing functions like ease-in, ease-out, or custom cubic bezier curves to achieve the desired animation effect.
+Testing:
+
+Test your keyframe animation on different browsers and devices to ensure it functions correctly and provides a visually pleasing and smooth animation.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the object you chose to animate, the keyframe animation you created, and the easing functions you experimented with.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment3_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Object Selection: Did you choose a 3D object in your scene to animate?
+
+Keyframe Animation: Did you successfully create a keyframe animation with at least three keyframes that changes the object's properties (position, rotation, or scale) over time?
+
+Easing Functions: Did you experiment with different easing functions to control the animation's timing and smoothness?
+
+Testing: Is the keyframe animation functional and visually pleasing, providing a smooth animation experience on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to use keyframe animation and easing functions to enhance your scene?
+
+Submission: Did you submit all required project files in the specified format?

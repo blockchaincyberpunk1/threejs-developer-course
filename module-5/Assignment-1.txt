@@ -1,0 +1,59 @@
+Mouse-Based Object Interaction
+
+Objective: Implement mouse-based interactions with 3D objects in Three.js.
+
+Instructions:
+
+In this assignment, you will learn how to create interactive 3D scenes by implementing mouse-based interactions with 3D objects. You will create a scene containing multiple clickable 3D objects and implement mouse-based interactions, such as highlighting objects on hover and triggering actions (e.g., scaling, rotating) on click. Additionally, you will provide visual feedback to users during interactions to enhance the user experience.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Adding 3D Objects:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Add at least three different clickable 3D objects (e.g., cube, sphere, and torus) to your scene using the BoxGeometry, SphereGeometry, and TorusGeometry classes.
+Mouse-Based Interactions:
+
+Implement mouse-based interactions with the 3D objects:
+Highlight on Hover: When the mouse pointer hovers over an object, change its appearance to indicate interactivity (e.g., change color, add a glow effect).
+Click Interaction: When a user clicks on an object, trigger an action such as scaling, rotating, or any other transformation to demonstrate interactivity.
+Visual Feedback:
+
+Provide visual feedback to users during interactions to enhance the user experience. Ensure that users can clearly see when an object is clickable or when an action is being performed.
+Testing:
+
+Test your interactive 3D scene with mouse-based interactions on different browsers and devices to ensure it functions correctly and provides a smooth user experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the types of mouse-based interactions you implemented, and how visual feedback is provided to users.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment1_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Mouse-Based Interactions: Did you successfully implement mouse-based interactions with the 3D objects, including highlighting on hover and triggering actions on click?
+
+Visual Feedback: Did you provide visual feedback to users during interactions to enhance the user experience?
+
+Testing: Is the interactive 3D scene with mouse-based interactions functional and providing a smooth user experience on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the mouse-based interactions engaging and user-friendly?
+
+Submission: Did you submit all required project files in the specified format?

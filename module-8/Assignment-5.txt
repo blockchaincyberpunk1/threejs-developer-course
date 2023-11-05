@@ -1,0 +1,51 @@
+Tutorial Creation
+
+Objective: Create a Three.js tutorial to share knowledge with the community.
+
+Instructions:
+
+In this assignment, you will instruct students to actively contribute to the Three.js community by creating a detailed tutorial. The objective is to encourage students to share their knowledge, insights, or expertise on a specific Three.js topic. They should develop a tutorial that includes code samples, explanations, and visuals to make the content informative and engaging. After creating the tutorial, students should share it on forums, social media, or relevant tutorial platforms to reach a wider audience.
+
+Requirements:
+
+Selecting a Tutorial Topic:
+
+Instruct students to choose a specific Three.js topic they are knowledgeable about and passionate to teach. Topics can include creating a specific effect, optimizing performance, or any aspect of Three.js development.
+Tutorial Development:
+
+Task students with developing a detailed tutorial on their chosen Three.js topic. The tutorial should include:
+Clear explanations of concepts and techniques related to the chosen topic.
+Code samples and examples that demonstrate the implementation.
+Visuals, images, or diagrams to enhance understanding.
+Any additional resources, links, or references for further learning.
+Publication and Sharing:
+
+Have students publish their tutorial on a platform suitable for technical tutorials, such as Medium, Dev.to, GitHub Pages, or their personal blog.
+Encourage them to share the tutorial with the class and the broader Three.js community through relevant forums, social media, or tutorial platforms.
+Feedback and Engagement:
+
+Students should actively engage with readers who provide comments or questions on their tutorial. They should also reflect on the feedback they receive and consider incorporating it into their future tutorials.
+Documentation: Maintain a log or record of the tutorial creation process, including links to the published tutorial and any feedback received.
+
+Reflection:
+
+Encourage students to reflect on the importance of knowledge sharing in the development field and how creating a tutorial benefits their own learning.
+Submission:
+
+Provide a link to the published tutorial.
+
+Include a brief reflection on the experience of creating and sharing the tutorial, including any feedback received and how it contributed to your understanding of Three.js.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Tutorial Quality: Did you create a high-quality tutorial with clear explanations, code samples, visuals, and additional resources?
+
+Publication and Sharing: Did you publish the tutorial on a suitable platform and actively share it with the class and the Three.js community?
+
+Feedback and Engagement: Did you actively engage with readers' comments and questions, and did you reflect on the feedback received?
+
+Documentation: Did you maintain a log or record of the tutorial creation process, including links and feedback?
+
+Reflection: Did you provide a thoughtful reflection on the importance of knowledge sharing and how creating a tutorial benefited your own learning?

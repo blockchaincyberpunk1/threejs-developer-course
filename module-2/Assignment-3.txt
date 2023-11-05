@@ -1,0 +1,55 @@
+ Interactive 3D Scene
+
+Objective: Create an interactive 3D scene using Three.js.
+
+Instructions:
+
+In this assignment, you will build upon your previous work by enhancing your 3D scene with interactive elements. You will add user-driven interactivity, such as mouse or touch controls, allowing users to manipulate the 3D objects (e.g., rotation or scaling). Additionally, you are encouraged to provide clear instructions to guide users on how to interact with the scene.
+
+Requirements:
+
+Building on Previous Work:
+
+Begin with the 3D scene you created in the previous assignment (Assignment 2) that includes objects and camera settings.
+Interactive Elements:
+
+In your script.js file, import the necessary Three.js modules to implement user-driven interactivity.
+Add interactive elements to your scene, such as mouse or touch controls. Consider using libraries like OrbitControls or TrackballControls to simplify user interaction.
+Implement at least one interactive action that users can perform on the scene, such as:
+Rotation: Allow users to rotate the scene or specific objects using mouse or touch input.
+Scaling: Enable users to scale objects up or down interactively.
+Zoom: Implement zoom in/out functionality using mouse or touch controls.
+User Instructions:
+
+Create a user-friendly interface within the web page to provide clear instructions on how to interact with the 3D scene. Include text or visual cues to guide users on using interactive controls.
+Testing:
+
+Test your interactive 3D scene on different browsers and devices to ensure it functions correctly and is user-friendly.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the interactive elements you added, and the user instructions.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment3_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Interactive Elements: Did you successfully implement user-driven interactivity in your 3D scene, such as rotation, scaling, or zoom?
+
+User Instructions: Did you provide clear and user-friendly instructions within the web page for interacting with the 3D scene?
+
+Testing: Is the interactive 3D scene functional and user-friendly on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the interactive 3D scene engaging for users?
+
+Submission: Did you submit all required project files in the specified format?

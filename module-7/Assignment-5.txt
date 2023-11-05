@@ -1,0 +1,59 @@
+Cross-Browser Compatibility
+
+Objective: Teach students how to ensure cross-browser compatibility for Three.js applications.
+
+Instructions:
+
+In this assignment, you will instruct students to develop a Three.js application that functions smoothly across various web browsers, including Chrome, Firefox, Safari, and others. The objective is to help them understand and address browser-specific issues related to WebGL support, CSS compatibility, and event handling variations. Students should document their browser compatibility testing process and share their findings.
+
+Requirements:
+
+Developing the Three.js Application:
+
+Instruct students to create a Three.js application with complex 3D scenes, animations, and interactivity. The application should be functional but may initially exhibit browser-specific issues.
+Identify Cross-Browser Compatibility Needs:
+
+Task students with running the application on different web browsers, including Chrome, Firefox, Safari, and at least one mobile browser.
+Have them identify and document browser-specific issues such as WebGL support variations, CSS compatibility problems, and event handling differences.
+Addressing Compatibility Issues:
+
+Guide students in addressing the identified compatibility issues. They should apply techniques such as:
+Polyfills: Implement polyfills or feature detection to handle missing or varying features in different browsers.
+WebGL Compatibility: Ensure that the application detects and handles WebGL support or fallbacks gracefully.
+CSS Compatibility: Adjust CSS styles and layouts to resolve discrepancies between browsers.
+Event Handling: Modify event handling code to account for variations in how different browsers handle events.
+Browser Compatibility Testing:
+
+Students should conduct thorough browser compatibility testing. They should test the application on different versions of major browsers and document any issues or deviations in behavior.
+Encourage them to use browser developer tools and online testing platforms to assist in this process.
+Documentation:
+
+Create a README.md file in the project directory that describes the browser compatibility issues encountered, the techniques used to address them, and the results of testing on different browsers.
+Sharing Findings:
+
+Instruct students to share their findings and solutions with the class. This could be through a presentation, written report, or a discussion forum, depending on the course setup.
+Submission:
+
+Compress all project files (HTML, CSS, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Identification of Compatibility Issues: Did you correctly identify and document browser-specific issues in the Three.js application?
+
+Addressing Compatibility Issues: Did you effectively address compatibility issues using techniques like polyfills, WebGL detection, CSS adjustments, and event handling modifications?
+
+Browser Compatibility Testing: Did you thoroughly test the application on various browsers and versions, documenting any issues or discrepancies?
+
+Documentation: Is your README.md informative, describing the compatibility issues encountered, the techniques used to address them, and the results of browser compatibility testing?
+
+Sharing Findings: Did you actively participate in sharing your findings and solutions with the class as instructed?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Submission: Did you submit all required project files in the specified format?

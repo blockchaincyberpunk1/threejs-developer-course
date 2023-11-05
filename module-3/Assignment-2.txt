@@ -1,0 +1,61 @@
+Sphere with Material
+
+Objective: Understand how to create a 3D sphere with a specified material in Three.js.
+
+Instructions:
+
+In this assignment, you will expand your knowledge of Three.js by adding a 3D sphere to your existing scene and applying a specific material to it. You will configure various material properties such as color, reflectivity, and shininess to understand their effects on the appearance of the sphere.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignment (Assignment 1).
+Add a 3D Sphere:
+
+In your script.js file, import the necessary Three.js modules to create a sphere geometry and a material.
+Create a 3D sphere using the SphereGeometry class and add it to your scene.
+Apply Material:
+
+Apply a specific material to the sphere. You can choose from materials like MeshBasicMaterial, MeshLambertMaterial, or MeshPhongMaterial.
+Configure material properties such as:
+Color: Change the color of the sphere to your preferred choice.
+Reflectivity: Adjust the material's reflectivity to control how much it reflects light.
+Shininess: Modify the shininess property of the material to control the intensity of highlights.
+Sphere Position:
+
+Experiment with different positions for the sphere within your scene. Change its coordinates to observe how the sphere's location affects the rendering.
+Rendering:
+
+Set up the rendering loop to continuously render the scene with the sphere and material you've configured.
+Observe how changes to material properties impact the appearance of the sphere.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the specific material you applied, and the material properties you configured.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment2_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Sphere Creation: Did you successfully create a 3D sphere using Three.js?
+
+Material Application: Did you apply a specific material to the sphere and configure material properties such as color, reflectivity, and shininess?
+
+Sphere Position: Did you experiment with different positions for the sphere within the scene?
+
+Rendering: Is the sphere correctly rendered with the applied material, and do material properties affect its appearance?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to change the sphere's appearance using different materials and material properties?
+
+Submission: Did you submit all required project files in the specified format?

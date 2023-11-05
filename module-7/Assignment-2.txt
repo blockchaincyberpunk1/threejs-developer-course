@@ -1,0 +1,58 @@
+Resource Management
+
+Objective: Teach students how to manage resources efficiently in a Three.js application.
+
+Instructions:
+
+In this assignment, you will instruct students to create a Three.js application that loads multiple 3D models, textures, and assets. The objective is to teach them resource management techniques, including texture atlases, lazy loading, and resource caching, to minimize load times and memory usage. Students should measure and compare the application's performance before and after implementing these resource optimizations.
+
+Requirements:
+
+Setting Up the Scene:
+
+Instruct students to create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in the HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to the HTML file using a <script> tag.
+Loading Multiple 3D Models and Textures:
+
+Provide students with a set of 3D models and textures that they need to incorporate into their Three.js application. These assets should be separate files.
+Initial Implementation:
+
+Instruct students to start by loading all the 3D models and textures without any resource management techniques in place.
+Resource Management Techniques:
+
+Task students with implementing resource management techniques to optimize the application's performance:
+Texture Atlases: Encourage students to create texture atlases by combining multiple textures into a single texture atlas image. This reduces the number of HTTP requests and memory usage.
+Lazy Loading: Teach students to implement lazy loading for 3D models and textures, loading assets only when they are needed within the scene.
+Resource Caching: Guide students in creating a resource cache to reuse previously loaded assets and avoid redundant loading.
+Measuring and Comparing Performance:
+
+Instruct students to measure and compare the application's performance before and after implementing resource optimizations. They can use browser developer tools or performance profiling tools to gather data on load times, memory usage, and frame rates.
+Documentation:
+
+Create a README.md file in the project directory that describes the resource management techniques used, the performance improvements achieved, and any challenges faced during implementation.
+Provide clear instructions on how to run the optimized application.
+Submission:
+
+Compress all project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment2_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Loading of Multiple Assets: Did you successfully load multiple 3D models and textures into the Three.js application?
+
+Resource Management Techniques: Did you effectively implement resource management techniques, including texture atlases, lazy loading, and resource caching?
+
+Performance Improvements: Did you measure and demonstrate performance improvements in terms of load times, memory usage, and frame rates after implementing resource optimizations?
+
+Documentation: Is your README.md well-written and informative, describing the resource management techniques used, the performance improvements achieved, and any challenges faced?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Submission: Did you submit all required project files in the specified format?

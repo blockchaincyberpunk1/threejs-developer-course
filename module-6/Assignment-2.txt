@@ -1,0 +1,66 @@
+Realistic Materials and Textures
+
+Objective: Enhance the realism of 3D objects by applying advanced materials and textures in Three.js.
+
+Instructions:
+
+In this assignment, you will focus on improving the realism of 3D objects by applying advanced materials and textures using Three.js. Your objective is to select a complex 3D object, such as a car or character model, and transform it into a lifelike and visually compelling asset. To achieve this, you will apply realistic materials and textures while considering factors like reflections, roughness, and bump mapping.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Complex 3D Object Selection:
+
+Choose a complex 3D object as your canvas. This could be a car model, a character model, or any other detailed object.
+Realistic Materials and Textures:
+
+Import or create realistic materials and textures for the selected 3D object. Pay attention to details like reflections, roughness, and bump mapping.
+Experiment with different materials (e.g., Lambert, Phong, PBR) to achieve the desired level of realism.
+Apply textures to different parts of the object to add visual complexity and depth.
+Lighting Setup:
+
+Create a suitable lighting setup in your scene to illuminate the 3D object and emphasize its materials and textures.
+Use a combination of directional lights, point lights, or other light sources to achieve realistic lighting effects.
+User Interaction (Optional):
+
+If desired, implement user interaction features that allow users to manipulate the 3D object or change its appearance (e.g., changing colors, materials, or textures).
+Testing:
+
+Test your 3D object with realistic materials and textures on different browsers and devices to ensure it appears lifelike and visually compelling.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the selected 3D object, the materials and textures applied, and the lighting setup.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment2_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Complex 3D Object Selection: Did you choose a complex 3D object suitable for enhancing realism?
+
+Realistic Materials and Textures: Did you successfully apply realistic materials and textures to the selected 3D object, considering factors like reflections, roughness, and bump mapping?
+
+Lighting Setup: Did you create an appropriate lighting setup to highlight the materials and textures and achieve realistic lighting effects?
+
+User Interaction (Optional): If included, does the user interaction enhance the assignment and make it more engaging?
+
+Testing: Does the 3D object with realistic materials and textures appear lifelike and visually compelling on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the 3D object visually appealing and lifelike?
+
+Submission: Did you submit all required project files in the specified format?

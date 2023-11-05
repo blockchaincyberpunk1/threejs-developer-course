@@ -1,0 +1,50 @@
+Documentation Enhancement
+
+Objective: Contribute to the improvement of Three.js documentation.
+
+Instructions:
+
+In this assignment, you will instruct students to actively contribute to the enhancement of Three.js documentation. The objective is to encourage students to improve the quality and clarity of the official Three.js documentation by making meaningful contributions. They should select a specific section or topic in the documentation, add code examples, improve explanations, or fix errors, and then submit their contributions via pull requests to the Three.js documentation repository on GitHub.
+
+Requirements:
+
+Selecting a Documentation Topic:
+
+Instruct students to choose a specific section, topic, or aspect of the official Three.js documentation that they would like to enhance or clarify. They should consider areas where their expertise can be valuable.
+Documentation Enhancement:
+
+Task students with making meaningful contributions to the selected documentation topic. They can:
+Add code examples to illustrate usage or implementation.
+Improve explanations to make concepts or features more understandable.
+Correct errors or outdated information in the documentation.
+Creating a Pull Request:
+
+Instruct students to create a pull request (PR) on the official Three.js documentation repository on GitHub. They should follow the repository's guidelines for contributing, including proper formatting and documentation structure.
+Collaborative Review:
+
+Encourage students to actively engage in the collaborative review process on GitHub. They should respond to comments, address feedback, and work collaboratively with the maintainers and other contributors.
+Documentation Contribution Log:
+
+Have students maintain a log or record of their documentation contributions, including links to the pull requests they submitted and the changes they made.
+Reflection:
+
+Encourage students to reflect on the importance of clear and accurate documentation in the development field and how their contributions benefit the Three.js community.
+Submission:
+
+Provide links to the pull requests (PRs) that you submitted to the Three.js documentation repository on GitHub.
+
+Include a brief reflection on the experience of enhancing the documentation, including any feedback received and how it contributed to your understanding of Three.js.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Documentation Enhancement: Did you make meaningful contributions to the selected documentation topic, such as adding code examples, improving explanations, or fixing errors?
+
+Pull Request Quality: Did you create a well-structured and properly formatted pull request (PR) following the repository's guidelines?
+
+Collaborative Review: Did you actively engage in the collaborative review process on GitHub by responding to comments and addressing feedback?
+
+Documentation Contribution Log: Did you maintain a log or record of your documentation contributions, including links to the PRs and the changes you made?
+
+Reflection: Did you provide a thoughtful reflection on the importance of clear and accurate documentation and how your contributions benefit the Three.js community?

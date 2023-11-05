@@ -1,0 +1,53 @@
+Mobile Optimization
+
+Objective: Prepare students to optimize Three.js applications for mobile devices.
+
+Instructions:
+
+In this assignment, you will provide students with a Three.js application that requires optimization for mobile devices. The objective is to teach them mobile-specific optimizations, including touch controls, responsive design, and performance tweaks, to ensure their Three.js applications run smoothly on a variety of mobile devices. Students should test their optimized application on different mobile devices and assess its performance.
+
+Requirements:
+
+Providing the Initial Three.js Application:
+
+Prepare a Three.js application that showcases performance issues or usability challenges when accessed on mobile devices. The application should be functional but not fully optimized for mobile.
+Identify Mobile Optimization Needs:
+
+Task students with running the provided application on mobile devices and identifying optimization needs. They should look for performance bottlenecks, usability issues, and other mobile-specific challenges.
+Mobile Optimization Techniques:
+
+Instruct students to implement mobile-specific optimization techniques:
+Touch Controls: Teach students to add touch-based controls (e.g., touch gestures) for interacting with the 3D scene on mobile devices.
+Responsive Design: Guide students in making the application responsive by adapting its layout and content to different screen sizes and orientations.
+Performance Tweaks: Encourage students to apply performance tweaks such as reducing the number of polygons in models or using lower-resolution textures for improved performance on lower-end mobile devices.
+Testing on Mobile Devices:
+
+Students should test their optimized application on a variety of mobile devices with different screen sizes, resolutions, and performance capabilities.
+They should measure and assess the application's performance, responsiveness, and usability on each tested device.
+Documentation:
+
+Create a README.md file in your project directory that describes the mobile optimization techniques applied, the performance improvements achieved, and any challenges faced during optimization.
+Provide clear instructions on how to access and test the optimized application on mobile devices.
+Submission:
+
+Compress all project files (HTML, CSS, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment4_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Identified Optimization Needs: Did you correctly identify optimization needs for the provided Three.js application when accessed on mobile devices?
+
+Mobile Optimization Techniques: Did you effectively implement mobile-specific optimization techniques, including touch controls, responsive design, and performance tweaks?
+
+Testing on Mobile Devices: Did you thoroughly test your optimized application on various mobile devices and assess its performance, responsiveness, and usability?
+
+Documentation: Is your README.md informative, describing the mobile optimization techniques used, the performance improvements achieved, and any challenges faced?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Submission: Did you submit all required project files in the specified format?

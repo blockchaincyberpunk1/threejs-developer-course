@@ -1,0 +1,51 @@
+Assignment 3: Blog Post Contribution
+
+Objective: Contribute to the Three.js community by creating a blog post.
+
+Instructions:
+
+In this assignment, you will instruct students to actively contribute to the Three.js community by creating a blog post. The objective is to encourage students to share their knowledge, insights, or project experiences with the larger community. They should choose a Three.js-related topic of their choice, write a blog post, and publish it on platforms like Medium, Dev.to, or their personal blogs. Students should also share their blog post with the class and the Three.js community to seek feedback and engagement.
+
+Requirements:
+
+Selecting a Blog Topic:
+
+Instruct students to choose a Three.js-related topic for their blog post. Topics can include tutorials, best practices, project showcases, or discussions of Three.js features and updates.
+Writing the Blog Post:
+
+Encourage students to write a high-quality blog post. They should:
+Provide clear explanations and examples related to their chosen topic.
+Include relevant code snippets and images to illustrate key points.
+Follow proper formatting and organization to make the post easy to read and understand.
+Publishing the Blog Post:
+
+Have students publish their blog post on a popular platform for technical content, such as Medium, Dev.to, or their personal blogs. They should ensure that the post is publicly accessible.
+Sharing with the Class and the Community:
+
+Instruct students to share their blog post with the class and the broader Three.js community. They can do this through the course platform, relevant forums, or social media channels.
+Encourage them to seek feedback, engage in discussions, and answer questions from readers.
+Feedback and Engagement:
+
+Students should actively engage with readers who provide comments or questions on their blog posts. They should also reflect on the feedback they receive and consider incorporating it into their future work.
+Reflection:
+
+Encourage students to reflect on the experience of creating and sharing their blog post. Ask them to consider how it contributes to their own learning and the wider Three.js community.
+Submission:
+
+Provide a link to the published blog post.
+
+In the submission, include a brief reflection on the experience of writing and sharing the blog post, including any feedback received and how it contributed to their understanding of Three.js.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Blog Post Quality: Did you write a high-quality blog post that effectively communicates your chosen Three.js-related topic?
+
+Publication: Did you publish the blog post on a suitable platform for technical content?
+
+Sharing and Engagement: Did you actively share your blog post with the class and the Three.js community, and did you engage with readers' comments and questions?
+
+Feedback Incorporation: Did you reflect on the feedback received and consider incorporating it into your future work?
+
+Reflection: Did you provide a thoughtful reflection on the experience of creating and sharing your blog post and its contribution to your learning?

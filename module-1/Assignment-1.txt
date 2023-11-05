@@ -1,0 +1,58 @@
+Simple 3D Object
+
+Objective: Create a simple 3D object using Three.js.
+
+Instructions:
+
+In this assignment, you will learn how to create a basic 3D object using Three.js, apply fundamental transformations to it, and render it on an HTML canvas element.
+
+Requirements:
+
+Setup:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the 3D object.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Create a 3D Object:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Create a scene, a camera, and a renderer.
+Choose one of the following 3D objects to create (cube, sphere, or cone) and add it to the scene.
+Apply Basic Transformations:
+
+Apply at least three different transformations to your 3D object. Transformations can include rotation, scaling, and translation.
+Use different transformation techniques available in Three.js (e.g., rotateX, rotateY, scale, position) to modify the object's appearance and position.
+Experiment with different values and sequences of transformations to achieve interesting results.
+Rendering:
+
+Set up the rendering loop to continuously render the scene on the canvas.
+Ensure that the object and its transformations are visible in the rendered output.
+Documentation:
+
+Create a brief README.md file in your project directory describing your assignment, the 3D object you chose, and the transformations you applied.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment1_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Object Creation: Did you successfully create a 3D object (cube, sphere, or cone) using Three.js?
+
+Transformations: Did you apply at least three different basic transformations to the object? Did you experiment with different transformation values and sequences?
+
+Rendering: Is the object correctly rendered on the canvas, and are the transformations visible in the output?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to use transformations to modify the object's appearance and position?
+
+Submission: Did you submit all required project files in the specified format?

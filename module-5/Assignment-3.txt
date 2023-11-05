@@ -1,0 +1,63 @@
+Drag-and-Drop Interaction
+
+Objective: Create drag-and-drop functionality for 3D objects in a Three.js scene.
+
+Instructions:
+
+In this assignment, you will explore the concept of drag-and-drop interaction within a 3D scene created using Three.js. Your task is to design a scene that contains draggable 3D objects and implement a drag-and-drop mechanism, allowing users to move objects within the scene. You should also consider additional features, such as snapping objects to a grid or ensuring realistic interactions when objects are dropped.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+3D Object Setup:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Add at least three different 3D objects (e.g., cubes, spheres, custom models) to your scene using appropriate geometries and materials.
+Drag-and-Drop Mechanism:
+
+Implement a drag-and-drop mechanism that allows users to click and drag 3D objects within the scene.
+Ensure that objects move smoothly with the mouse pointer and that they follow the pointer's movement while being dragged.
+Snapping to Grid (Optional):
+
+If desired, implement the option for objects to snap to a grid when dropped. Define the grid size and make sure objects align neatly with it.
+Realistic Interactions (Optional):
+
+For an advanced challenge, you can make objects interact more realistically when dropped. Consider implementing physics-based interactions, such as collisions and bouncing.
+Testing:
+
+Test your scene with drag-and-drop functionality on different browsers and devices to ensure it functions correctly and provides a smooth user experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the drag-and-drop mechanism you implemented, and any optional features like snapping or realistic interactions.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment3_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Drag-and-Drop Mechanism: Did you successfully implement a drag-and-drop mechanism that allows users to move 3D objects within the scene?
+
+Snapping to Grid (Optional): If included, did you provide the option for objects to snap to a grid when dropped, and is it functioning correctly?
+
+Realistic Interactions (Optional): If included, did you implement realistic interactions when objects are dropped, such as collisions and bouncing?
+
+Testing: Is the scene with drag-and-drop functionality functional and providing a smooth user experience on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the drag-and-drop interaction engaging and user-friendly?
+
+Submission: Did you submit all required project files in the specified format?

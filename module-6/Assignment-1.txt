@@ -1,0 +1,62 @@
+Particle System Creation
+
+Objective: Implement a particle system in Three.js to simulate various effects.
+
+Instructions:
+
+In this assignment, you will explore the creation of particle systems within a 3D scene using Three.js. Your goal is to design a scene with a particle system and simulate various effects such as rain, snow, or fireworks using particles. You will have the opportunity to experiment with particle attributes such as size, color, velocity, and lifespan to create visually captivating effects.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Particle System Setup:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Create a particle system within your scene to serve as the canvas for simulating effects.
+Effect Simulation:
+
+Choose one or more effects to simulate using particles, such as rain, snow, or fireworks. You can implement any other effect that interests you.
+Configure the particle attributes to achieve the desired effect. Experiment with particle size, color, velocity, and lifespan to make the effect visually appealing.
+User Interaction (Optional):
+
+If desired, implement user interaction that allows users to control or customize the particle system or effect. For example, users might be able to change the intensity or color of the particles.
+Testing:
+
+Test your particle system and simulated effects on different browsers and devices to ensure they function correctly and provide a visually pleasing experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the simulated effects, and the particle attributes you experimented with.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment1_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Particle System Setup: Did you successfully create a particle system within your Three.js scene?
+
+Effect Simulation: Did you implement the chosen effects (e.g., rain, snow, fireworks) using particles, and are they visually appealing?
+
+Particle Attributes: Did you experiment with particle attributes such as size, color, velocity, and lifespan to enhance the visual appeal of the effects?
+
+User Interaction (Optional): If included, does the user interaction add value to the assignment and make it more engaging?
+
+Testing: Are the particle system and simulated effects functional and visually pleasing on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to simulate the chosen effects and experiment with particle attributes?
+
+Submission: Did you submit all required project files in the specified format?

@@ -1,0 +1,74 @@
+Complex Interactive Scene
+
+Objective: Build a complex interactive 3D scene with multiple interactive elements using Three.js.
+
+Instructions:
+
+In this assignment, you will showcase your advanced skills by designing a complex interactive 3D scene using Three.js. Your goal is to create an intricate 3D environment with various interactive components that engage the user. You will implement a combination of mouse-based interactions, keyboard controls, and drag-and-drop features to create an immersive and interactive experience.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Complex 3D Environment:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Design a complex 3D environment with multiple interactive elements. This could include a detailed landscape, buildings, objects, or any creative concept of your choice.
+Mouse-Based Interactions:
+
+Implement mouse-based interactions for certain objects or elements within your scene. For example, users can click on objects to trigger animations, change object properties, or reveal hidden content.
+Keyboard Controls:
+
+Enable keyboard controls for navigation or interaction within the scene. Users should be able to move, rotate, or perform actions using specific keys or key combinations.
+Drag-and-Drop Features:
+
+Incorporate drag-and-drop functionality for certain objects or components. Users should be able to click and drag objects, rearrange elements, or interact with draggable UI elements.
+Immersive Experience:
+
+Create an immersive and interactive experience that showcases your skills and creativity. Consider storytelling, thematic elements, or gamification to engage users and make the scene memorable.
+Visual Feedback:
+
+Provide clear and engaging visual feedback during interactions. Ensure that users can easily understand the consequences of their actions.
+Testing:
+
+Test your complex interactive 3D scene on different browsers and devices to ensure it functions correctly and provides an immersive and enjoyable user experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the complexity of your interactive scene, and the mouse-based interactions, keyboard controls, and drag-and-drop features you implemented.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Complex Interactive Scene: Did you successfully design a complex 3D environment with multiple interactive elements?
+
+Mouse-Based Interactions: Did you implement engaging mouse-based interactions for objects or elements within the scene?
+
+Keyboard Controls: Did you enable effective keyboard controls for navigation or interaction within the scene?
+
+Drag-and-Drop Features: Did you incorporate intuitive drag-and-drop functionality for certain objects or components?
+
+Immersive Experience: Did you create an immersive and interactive experience that engages users and showcases your skills?
+
+Visual Feedback: Did you provide clear and engaging visual feedback during interactions?
+
+Testing: Is the complex interactive 3D scene functional and providing an immersive and enjoyable user experience on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the interactive scene engaging and memorable?
+
+Submission: Did you submit all required project files in the specified format?

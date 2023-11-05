@@ -1,0 +1,61 @@
+Advanced Lighting Effects
+
+Objective: Explore advanced lighting techniques in Three.js.
+
+Instructions:
+
+In this assignment, you will dive deeper into Three.js by enhancing your scenes with various types of lighting. You will experiment with different light sources (e.g., directional light, point light, spotlight), adjust light properties, and create a scene that demonstrates the interplay of light and shadow for a realistic effect.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignments (Assignment 1: Camera Movement and Controls).
+Lighting Elements:
+
+In your script.js file, import the necessary Three.js modules to create different types of lights, including:
+Directional Light: A light source that emits light in a specific direction, such as sunlight.
+Point Light: A light source that emits light in all directions from a single point, like a light bulb.
+Spotlight: A focused light source with a specific position and direction.
+Light Properties:
+
+Adjust the properties of each light source to achieve desired effects:
+Color: Modify the color of the lights to create different moods and atmospheres.
+Intensity: Control the brightness of the lights to simulate different times of day or specific lighting scenarios.
+Shadows: Enable and configure shadows for the lights to create realistic light and shadow interplay.
+Scene Composition:
+
+Compose a scene that showcases the interplay of light and shadow. Consider using 3D objects with different materials and textures to emphasize the effects of lighting.
+Testing:
+
+Test your scene with advanced lighting effects on different browsers and devices to ensure it functions correctly and provides a visually compelling experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the types of lights you used, and the adjustments you made to light properties.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment2_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Lighting Elements: Did you successfully create different types of lights (e.g., directional light, point light, spotlight) in your scene?
+
+Light Properties: Did you adjust the properties of the lights, including color, intensity, and shadows, to achieve desired effects?
+
+Scene Composition: Did you compose a scene that effectively demonstrates the interplay of light and shadow, showcasing advanced lighting techniques?
+
+Testing: Is the scene with advanced lighting effects functional and visually compelling on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to use advanced lighting techniques to enhance the visual appeal of your scene?
+
+Submission: Did you submit all required project files in the specified format?

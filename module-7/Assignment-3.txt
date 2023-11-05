@@ -1,0 +1,65 @@
+Web Deployment
+
+Objective: Guide students through the process of deploying a Three.js application on the web.
+
+Instructions:
+
+In this assignment, you will instruct students to develop a Three.js project and guide them through the process of deploying it to a live web server. The objective is to help students gain practical experience in web deployment, including setting up a web server, optimizing for performance, and making their Three.js application accessible on the internet.
+
+Requirements:
+
+Developing the Three.js Project:
+
+Instruct students to create a Three.js project of their choice. This project should be fully functional and include 3D models, textures, animations, and any other relevant features.
+Encourage students to ensure that their project is well-structured and organized.
+Setting Up a Web Server:
+
+Task students with setting up a web server to host their Three.js application. They can use Node.js and the Express.js framework or any other server technology of their choice.
+Provide resources or documentation on setting up a basic web server using Node.js and Express.js if needed.
+Deployment Process:
+
+Guide students through the deployment process, including:
+Uploading their project files to the server.
+Configuring routing and handling static files (e.g., HTML, CSS, JavaScript, textures, models).
+Ensuring that the project works correctly when accessed via a web browser.
+Performance Optimization:
+
+Instruct students to consider performance optimizations for web deployment. This may include:
+Minifying and compressing JavaScript files to reduce load times.
+Using content delivery networks (CDNs) for commonly used libraries or assets.
+Implementing caching strategies to improve loading speed for returning visitors.
+Testing and Debugging:
+
+Encourage students to thoroughly test their deployed application on different browsers and devices to ensure it functions correctly.
+Provide guidance on debugging and troubleshooting common deployment issues.
+Documentation:
+
+Create a README.md file in the project directory that describes the deployment process, performance optimizations applied, and any challenges faced during deployment.
+Provide clear instructions on how to access and interact with the deployed Three.js application.
+Submission:
+
+Compress all project files (including HTML, CSS, JavaScript, and README.md) into a single zip file.
+
+Name the zip file as Assignment3_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Three.js Project: Did you create a functional and well-structured Three.js project?
+
+Web Server Setup: Did you successfully set up a web server to host your application using Node.js and Express.js or another suitable technology?
+
+Deployment Process: Did you follow the deployment process, including uploading files, configuring routing, and ensuring correct functionality?
+
+Performance Optimization: Did you apply performance optimizations such as minification, CDN usage, and caching to improve loading speed?
+
+Testing and Debugging: Did you thoroughly test your deployed application and address any issues or errors?
+
+Documentation: Is your README.md informative, describing the deployment process, performance optimizations, and any challenges faced?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Submission: Did you submit all required project files in the specified format?

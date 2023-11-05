@@ -1,0 +1,60 @@
+Tweening for Smooth Transitions
+
+Objective: Use tweening libraries to create smooth transitions in Three.js.
+
+Instructions:
+
+In this assignment, you will explore the use of tweening libraries to create smooth transitions or animations in Three.js. You will select an object or attribute (e.g., position, opacity) to tween and incorporate a tweening library like Tween.js. Additionally, you will provide user controls within your scene to trigger and control the tweens.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignments (Assignment 1: Camera Movement and Controls, Assignment 2: Advanced Lighting Effects, and Assignment 3: Keyframe Animation).
+Select an Object or Attribute to Tween:
+
+In your script.js file, choose an object or attribute within your scene that you want to tween. It could be an object's position, rotation, opacity, or any other property you find suitable for tweening.
+Tweening Library:
+
+Incorporate a tweening library like Tween.js into your project. You can include Tween.js in your HTML file using a <script> tag. Make sure to follow the library's documentation for usage instructions.
+Create Tweens:
+
+Use the tweening library to create tweens that smoothly transition the selected object or attribute. Create at least two tweens for different scenarios, such as moving an object from one position to another or changing an object's opacity over time.
+User Controls:
+
+Implement user controls within your scene to trigger and control the tweens. You can use buttons, sliders, or any interactive elements to allow users to initiate and modify the tweens.
+Testing:
+
+Test your scene with tweening effects and user controls on different browsers and devices to ensure it functions correctly and provides a smooth and interactive experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the object or attribute you selected for tweening, the tweens you created, and how users can interact with the tweens using the provided controls.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment4_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Object or Attribute Selection: Did you choose an object or attribute within your scene that is suitable for tweening?
+
+Tweening Library: Did you successfully incorporate a tweening library like Tween.js into your project?
+
+Tweens: Did you create at least two tweens that smoothly transition the selected object or attribute?
+
+User Controls: Did you implement user controls within your scene to trigger and control the tweens effectively?
+
+Testing: Is the scene with tweening effects and user controls functional and providing a smooth and interactive experience on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to use tweening for smooth transitions and provide an engaging interactive experience?
+
+Submission: Did you submit all required project files in the specified format?

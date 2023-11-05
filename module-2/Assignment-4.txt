@@ -1,0 +1,57 @@
+Lighting and Shadows
+
+Objective: Implement lighting and shadows in a 3D scene using Three.js.
+
+Instructions:
+
+In this assignment, you will enhance your 3D scene by adding lighting elements and configuring lighting properties such as intensity and color. Additionally, you will enable and configure shadows for the objects in your scene to make it more visually appealing and realistic.
+
+Requirements:
+
+Building on Previous Work:
+
+Begin with the 3D scene you created in the previous assignments (Assignment 2 and Assignment 3) that includes objects, camera settings, and interactivity.
+Lighting Elements:
+
+In your script.js file, import the necessary Three.js modules to implement lighting.
+Add at least two different types of lights to your scene. Consider using:
+Directional Light: A light source that emits light uniformly in a specific direction.
+Point Light: A light source that emits light from a specific point in all directions.
+Spotlight (Optional): A focused light source with a specific direction and cone angle.
+Configure the lighting properties, such as intensity, color, and position, to achieve the desired visual effect.
+Shadows:
+
+Enable and configure shadows for the objects in your 3D scene. You can use the following shadow-related properties:
+castShadow: Set this property to true for objects that should cast shadows.
+receiveShadow: Set this property to true for objects that should receive shadows.
+Experiment with the shadow settings, such as shadow map resolution, bias, and darkness, to achieve the desired shadow effect.
+Testing:
+
+Test your 3D scene with lighting and shadows on different browsers and devices to ensure it functions correctly and the shadows are rendered as expected.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the lighting elements you added, the shadow settings you configured, and any challenges you faced.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment4_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Lighting Elements: Did you successfully add at least two different types of lights to your 3D scene and configure their properties?
+
+Shadows: Did you enable and configure shadows for the objects in your scene? Are the shadows rendered correctly?
+
+Testing: Is the 3D scene with lighting and shadows functional and visually appealing on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to use lighting and shadows to enhance the realism of your 3D scene?
+
+Submission: Did you submit all required project files in the specified format?

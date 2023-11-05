@@ -1,0 +1,64 @@
+Interactive 3D Animation
+
+Objective: Implement interactive 3D animation using Three.js.
+
+Instructions:
+
+In this assignment, you will build upon your knowledge of Three.js by creating an interactive 3D scene containing an object, such as a car model. Your task is to use JavaScript and Three.js to add interactivity, allowing users to rotate or move the object using mouse or keyboard input. Additionally, you should provide user instructions within the web page to guide users on how to interact with the 3D animation.
+
+Requirements:
+
+Setup:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the 3D scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Create a 3D Scene:
+
+In your script.js file, import the necessary Three.js modules to create a scene, camera, and renderer.
+Create a scene, a camera, and a renderer.
+Choose a 3D object (e.g., a car model) and add it to the scene. You can use a pre-existing 3D model or create your own.
+Interactivity:
+
+Implement interactivity to allow users to interact with the 3D object. This can include:
+Rotation: Enable users to rotate the object using mouse input (e.g., click and drag).
+Movement: Allow users to move the object using keyboard input (e.g., arrow keys or WASD).
+Zoom: Implement zoom in/out functionality (e.g., mouse wheel).
+Ensure that the interaction is smooth and intuitive for users.
+User Instructions:
+
+Create a user-friendly interface within the web page to provide clear instructions on how to interact with the 3D animation.
+Include text or visual cues to guide users on using mouse and keyboard input for interaction.
+Rendering:
+
+Set up the rendering loop to continuously render the scene on the canvas.
+Ensure that the object responds to user input and updates accordingly.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the chosen 3D object, the interactivity you implemented, and the user instructions.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment3_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Interactivity: Did you successfully implement interactivity, including rotation, movement, and zoom, for the 3D object?
+
+User Instructions: Did you provide clear and user-friendly instructions within the web page for interacting with the 3D animation?
+
+Rendering: Is the 3D scene correctly rendered on the canvas, and does the object respond to user input?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the interactive 3D animation engaging for users?
+
+Submission: Did you submit all required project files in the specified format?

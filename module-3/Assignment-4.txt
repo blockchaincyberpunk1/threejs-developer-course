@@ -1,0 +1,64 @@
+Multi-Object Scene
+
+Objective: Create a scene with multiple 3D objects in Three.js.
+
+Instructions:
+
+In this assignment, you will extend your Three.js skills by creating a scene with multiple 3D objects. You will apply different materials and textures to each object and position and orient them to create a well-composed 3D scene.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignments (Assignment 1, Assignment 2, and Assignment 3).
+Add Multiple 3D Objects:
+
+In your script.js file, import the necessary Three.js modules to create multiple 3D objects and materials.
+Add at least three different types of 3D objects (e.g., cube, sphere, and plane) to your scene.
+Use the BoxGeometry, SphereGeometry, and PlaneGeometry classes to create these objects.
+Materials and Textures:
+
+Apply different materials and textures to each object. You can use a variety of materials, including MeshBasicMaterial, MeshLambertMaterial, and MeshPhongMaterial. Assign textures to the materials where appropriate.
+Configure material properties such as color, reflectivity, shininess, and opacity as needed for each object.
+Object Position and Orientation:
+
+Position and orient the objects within your scene to create a visually pleasing and well-composed 3D environment. Experiment with different positions and orientations to achieve the desired composition.
+Lighting (Optional):
+
+If you want to further enhance your scene, consider adding different types of lights (e.g., directional light, point light) and configuring their properties to affect the objects' appearance.
+Rendering:
+
+Set up the rendering loop to continuously render the scene with the multiple objects, materials, and textures you've configured.
+Observe how changes in object positioning and materials affect the overall scene.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the types of 3D objects you added, the materials and textures you applied, and the positions and orientations you set for each object.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment4_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Multiple 3D Objects: Did you successfully add at least three different types of 3D objects to your scene?
+
+Materials and Textures: Did you apply different materials and textures to each object, and did you configure material properties appropriately?
+
+Object Position and Orientation: Did you position and orient the objects to create a well-composed 3D scene?
+
+Lighting (Optional): If you added lighting, did you configure it to enhance the scene's appearance?
+
+Rendering: Is the scene correctly rendered with the multiple objects, materials, and textures you've configured?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to use multiple objects, materials, and textures to compose an engaging 3D scene?
+
+Submission: Did you submit all required project files in the specified format?

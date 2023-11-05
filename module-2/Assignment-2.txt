@@ -1,0 +1,61 @@
+Camera and Perspective
+
+Objective: Understand camera and perspective in Three.js.
+
+Instructions:
+
+In this assignment, you will build upon your knowledge from the previous assignment by adding a camera to your 3D scene. You will experiment with different camera types (e.g., PerspectiveCamera, OrthographicCamera) and adjust camera properties (e.g., field of view, position) to observe the effects of changing camera settings on the rendered scene.
+
+Requirements:
+
+Building on Assignment 1:
+
+Start with the 3D scene you created in Assignment 1. Ensure you have the basic structure of your HTML file, the Three.js library, and a rendering loop.
+Add a Camera:
+
+In your script.js file, import the necessary Three.js modules to create a camera.
+Add a camera to your scene. You can choose between PerspectiveCamera and OrthographicCamera. Make sure to experiment with both types.
+Set an initial position for the camera within your scene.
+Camera Properties:
+
+Experiment with different camera properties to understand their effects on the rendered scene. Some properties to modify include:
+Field of View (FOV): Adjust the FOV of the camera to observe how it affects the perspective of the scene. Try both wide and narrow FOV values.
+Position: Change the camera's position in the scene and observe how it changes the view.
+LookAt: Use the lookAt method to make the camera focus on specific objects in your scene.
+Multiple Cameras (Optional):
+
+If you'd like to explore further, you can add multiple cameras to your scene and switch between them during runtime. This can provide different viewpoints of the scene.
+Rendering and Observation:
+
+Set up the rendering loop to continuously render the scene with the camera settings you've adjusted.
+Observe and document the effects of changing camera properties on the rendered scene. Pay attention to how the perspective changes.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the camera types you experimented with, the camera properties you modified, and your observations.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment2_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Camera Integration: Did you successfully integrate a camera into your 3D scene?
+
+Camera Types: Did you experiment with both PerspectiveCamera and OrthographicCamera types?
+
+Camera Properties: Did you adjust camera properties such as FOV, position, and lookAt? Did you document their effects?
+
+Rendering: Is the scene correctly rendered with the camera settings you've adjusted?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Observations: Did you provide clear and insightful observations about how changing camera properties affects the rendered scene?
+
+Submission: Did you submit all required project files in the specified format?

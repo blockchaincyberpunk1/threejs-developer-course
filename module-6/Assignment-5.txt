@@ -1,0 +1,65 @@
+Interactive 3D Game or Simulation
+
+Objective: Develop an interactive 3D game or simulation using Three.js.
+
+Instructions:
+
+In this final assignment, you will challenge students to apply their knowledge and skills acquired in previous modules to create an interactive 3D game or simulation using Three.js. The objective is for students to conceptualize, design, and build a project that incorporates elements from previous modules, including user interactions, animations, complex scenes, and any other creative components that result in an engaging 3D experience.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Conceptualize and Design:
+
+Instruct students to conceptualize and design an interactive 3D game or simulation. This could be a game with challenges, puzzles, or a simulation of a real-world scenario.
+Encourage students to sketch their ideas, create a storyboard, or outline the key features and objectives of their project.
+Development:
+
+Task students with implementing their conceptualized project using Three.js. They should leverage the techniques and concepts learned in previous modules, such as 3D objects, materials, textures, animations, lighting, and camera controls.
+Students should ensure that their project offers an interactive and engaging experience for users.
+User Interaction:
+
+Students should implement user interaction features that allow users to control or interact with elements within the 3D environment. This could include mouse-based controls, keyboard input, or even touch-based interactions for mobile devices.
+Testing:
+
+Students should thoroughly test their interactive 3D game or simulation on different browsers and devices to ensure it functions correctly and provides an engaging user experience.
+Documentation:
+
+Create a README.md file in your project directory that describes your game or simulation, its objectives, key features, and how to play or use it.
+Include any challenges faced during development and how they were overcome.
+Provide clear instructions on how to run the code.
+Creativity and Engagement:
+
+Encourage students to showcase their creativity and problem-solving skills in building an engaging 3D experience that captures the user's attention.
+Submission:
+
+Compress all project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Conceptualization and Design: Did you conceptualize and design an interactive 3D game or simulation with clear objectives and features?
+
+Development: Did you successfully implement your project using Three.js, incorporating concepts from previous modules?
+
+User Interaction: Did you provide user interaction features that enhance the engagement and interactivity of your project?
+
+Testing: Does your interactive 3D game or simulation function correctly on different browsers and devices?
+
+Documentation: Is your README.md well-written and informative, providing clear instructions on how to play or use your project?
+
+Creativity and Engagement: Did you showcase creativity and problem-solving skills in creating an engaging 3D experience?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Submission: Did you submit all required project files in the specified format?

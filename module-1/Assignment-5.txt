@@ -1,0 +1,60 @@
+Web Development Integration
+
+Objective: Integrate the 3D scene into a web page and enhance it with HTML, CSS, and explanatory elements.
+
+Instructions:
+
+In this assignment, you will take the 3D scene you created in a previous assignment and integrate it into a web page. Your task is to build a complete web page that includes a header, a description, and the 3D scene. You will use HTML and CSS to style the web page, make it responsive, and enhance the user experience by including explanatory text or tooltips for the 3D elements.
+
+Requirements:
+
+Web Page Setup:
+
+Create a new HTML file named index.html for your web page.
+Structure your web page with the following elements:
+Header: Add a header section at the top of the page that includes a title or logo for your 3D project.
+Description: Include a description or introduction to the 3D scene, explaining what it represents or any interesting features.
+3D Scene: Embed the 3D scene you created in a previous assignment within the web page.
+HTML and CSS Styling:
+
+Use HTML and CSS to style your web page. Ensure that the design is visually appealing and cohesive.
+Apply responsive design techniques to make your page look good on different screen sizes and devices.
+Use CSS to define font styles, colors, layout, and any other design elements that enhance the overall appearance of the page.
+Explanatory Elements:
+
+Enhance the user experience by providing explanatory text or tooltips for the 3D elements within your scene. When users interact with the 3D objects (e.g., hover or click), display relevant information or tooltips to explain what each object represents or its significance.
+Interactivity:
+
+If applicable, ensure that any interactivity implemented in the 3D scene (e.g., rotation, movement) is retained and works seamlessly within the web page.
+Testing:
+
+Test your web page on different browsers and devices to ensure it is responsive and functions correctly.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the design choices you made, and any challenges you faced during integration.
+Provide clear instructions on how to run and access your web page.
+Submission:
+
+Compress all your project files (HTML, CSS, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Integration: Did you successfully integrate the 3D scene into a web page, including a header, description, and explanatory elements?
+
+Design: Is the web page visually appealing, well-designed, and responsive to different screen sizes and devices?
+
+Explanatory Elements: Did you provide clear explanations or tooltips for the 3D elements to enhance the user experience?
+
+Interactivity: If applicable, does the interactivity from the 3D scene work seamlessly within the web page?
+
+Code Quality: Is your HTML, CSS, and JavaScript well-structured, well-documented, and easy to understand?
+
+Creativity: Did you use creative design and layout choices to enhance the overall appearance of the web page?
+
+Submission: Did you submit all required project files in the specified format?

@@ -1,0 +1,77 @@
+Complex Scene Composition
+
+Objective: Challenge students to create intricate and visually appealing 3D scenes using Three.js.
+
+Instructions:
+
+In this assignment, you will challenge students to demonstrate their creativity and technical skills by designing complex 3D environments using Three.js. The objective is to create intricate and visually appealing 3D scenes, which could include architectural visualizations, fantasy landscapes, or any other creative concept. Students will combine multiple 3D objects, textures, and materials to build the scene, paying special attention to composition, lighting, and camera angles for an aesthetically pleasing result.
+
+Requirements:
+
+Setting Up the Scene:
+
+Create a new HTML file named index.html.
+Set up the basic structure of an HTML page, including a <canvas> element inside the <body> for rendering the Three.js scene.
+Import the Three.js library using a <script> tag in your HTML file. You can use the latest version available at https://threejs.org/.
+Create a JavaScript file named script.js and link it to your HTML file using a <script> tag.
+Complex 3D Scene Design:
+
+Challenge students to design a complex 3D environment. This could be an architectural visualization (e.g., a building interior), a fantasy landscape, or any other creative concept that demonstrates complexity.
+Combining 3D Objects:
+
+Students should combine multiple 3D objects to build the scene. Objects can include geometric shapes, imported models, or custom creations.
+Encourage students to pay attention to object placement, scale, and arrangement within the scene.
+Textures and Materials:
+
+Implement textures and materials to enhance the realism and visual appeal of the 3D objects.
+Experiment with different materials (e.g., Lambert, Phong, PBR) and textures to achieve the desired look and feel.
+Lighting and Shadows:
+
+Create an appropriate lighting setup within the scene to illuminate the 3D environment and objects.
+Consider the interplay of light and shadows to add depth and realism.
+Camera Composition:
+
+Instruct students to experiment with camera angles and compositions to frame the scene in an aesthetically pleasing way.
+Encourage them to set up camera paths or animations if relevant to the scene's concept.
+User Interaction (Optional):
+
+If desired, students can implement user interaction features that allow users to explore or interact with elements within the scene.
+Testing:
+
+Students should test their complex 3D scene on different browsers and devices to ensure it functions correctly and provides an immersive experience.
+Documentation:
+
+Create a README.md file in the project directory describing the assignment, the complexity of the 3D scene, the objects used, materials, lighting, and camera composition.
+Include any challenges faced and how they were overcome.
+Provide clear instructions on how to run the code.
+Submission:
+
+Compress all project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment3_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Complex 3D Scene Design: Did you design a complex 3D environment that demonstrates creativity and complexity?
+
+Combining 3D Objects: Did you successfully combine multiple 3D objects to build the scene, paying attention to placement and arrangement?
+
+Textures and Materials: Did you effectively use textures and materials to enhance the visual appeal of the 3D objects?
+
+Lighting and Shadows: Did you create a suitable lighting setup that adds depth and realism to the scene?
+
+Camera Composition: Did you experiment with camera angles and compositions to frame the scene effectively?
+
+User Interaction (Optional): If included, does the user interaction enhance the assignment and make it more engaging?
+
+Testing: Is the complex 3D scene functional and immersive on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to make the 3D scene visually appealing and complex?
+
+Submission: Did you submit all required project files in the specified format?

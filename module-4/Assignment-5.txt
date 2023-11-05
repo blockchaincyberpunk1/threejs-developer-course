@@ -1,0 +1,70 @@
+Complex Scene Animation
+
+Objective: Animate a complex 3D scene using a combination of techniques in Three.js.
+
+Instructions:
+
+In this assignment, you will demonstrate your advanced skills in Three.js by creating a complex 3D scene and animating various elements within it. You will use a combination of camera movements, lighting effects, and keyframe animations to bring your scene to life. Additionally, you are encouraged to tell a visual story or create an interactive experience within your animated scene.
+
+Requirements:
+
+Building on Previous Work:
+
+Start with the existing Three.js environment and scene you have created in the previous assignments (Assignment 1: Camera Movement and Controls, Assignment 2: Advanced Lighting Effects, Assignment 3: Keyframe Animation, and Assignment 4: Tweening for Smooth Transitions).
+Complex 3D Scene:
+
+In your script.js file, create a complex 3D scene with multiple objects, materials, and textures. Your scene should include a variety of 3D elements to form a visually engaging environment.
+Camera Movements:
+
+Implement camera movements that guide the user through your scene. Use camera animations or user controls to create dynamic and engaging viewpoints within your scene.
+Lighting Effects:
+
+Enhance your scene with advanced lighting effects. Utilize different types of lights (e.g., directional light, point light, spotlight) and configure their properties, including color, intensity, and shadows, to create visually captivating scenes.
+Keyframe Animations:
+
+Animate various elements within your scene using keyframe animations. Create animations that change object properties (e.g., position, rotation, scale) over time to add movement and dynamism.
+Interactive Experience (Optional):
+
+If you choose to create an interactive experience, implement user controls or interactive elements within your scene. This could involve user-triggered animations, object interactions, or any other interactive features that engage the user.
+Storytelling (Optional):
+
+Consider telling a visual story within your scene through animation and object placement. Your scene could convey a narrative, evoke emotions, or communicate a theme.
+Testing:
+
+Test your complex animated scene on different browsers and devices to ensure it functions correctly and provides an immersive and enjoyable experience.
+Documentation:
+
+Create a README.md file in your project directory describing your assignment, the complexity of your 3D scene, the camera movements, lighting effects, keyframe animations, and any optional interactive or storytelling elements you added.
+Include any challenges you faced and how you overcame them.
+Provide clear instructions on how to run your code.
+Submission:
+
+Compress all your project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment5_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Complex 3D Scene: Did you create a complex 3D scene with multiple objects, materials, and textures that form a visually engaging environment?
+
+Camera Movements: Did you implement camera movements that guide the user through your scene, creating dynamic viewpoints?
+
+Lighting Effects: Did you enhance your scene with advanced lighting effects, including different types of lights and configurations?
+
+Keyframe Animations: Did you successfully animate various elements within your scene using keyframe animations to add movement and dynamism?
+
+Interactive Experience (Optional): If included, did you implement user controls or interactive elements that engage the user?
+
+Storytelling (Optional): If included, did you effectively convey a visual story, evoke emotions, or communicate a theme within your scene?
+
+Testing: Is the complex animated scene functional, immersive, and enjoyable on different browsers and devices?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Creativity: Did you explore creative ways to combine techniques to create an engaging animated scene?
+
+Submission: Did you submit all required project files in the specified format?

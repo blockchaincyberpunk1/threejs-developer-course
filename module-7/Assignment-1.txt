@@ -1,0 +1,58 @@
+Optimizing Rendering Performance
+
+Objective: Optimize rendering performance for a Three.js scene.
+
+Instructions:
+
+In this assignment, you will provide students with a Three.js scene that exhibits performance issues, such as low frame rates or lag. The objective is to challenge students to identify and implement performance optimizations that improve the rendering performance while maintaining the quality of the scene. Students will apply techniques such as using the WebGLRenderer, optimizing geometries, and implementing level-of-detail (LOD) techniques.
+
+Requirements:
+
+Providing the Initial Scene:
+
+Prepare a Three.js scene with complex 3D objects, materials, and textures that exhibit performance issues when rendered.
+Identify Performance Issues:
+
+Task students with running the provided scene and identifying performance issues, such as low frame rates or lag, using browser developer tools or performance profiling tools.
+Optimization Techniques:
+
+Instruct students to apply performance optimization techniques to address the identified issues. They should consider the following:
+Switching to the WebGLRenderer for improved performance.
+Optimizing geometries to reduce vertex counts and improve rendering speed.
+Implementing level-of-detail (LOD) techniques to reduce detail in objects that are far from the camera.
+Maintain Scene Quality:
+
+Challenge students to optimize the scene without compromising its visual quality. The goal is to achieve a significant performance improvement while retaining the scene's aesthetic appeal.
+Testing:
+
+Students should thoroughly test their optimized scene on different browsers and devices to ensure it functions correctly and provides a smoother user experience.
+Documentation:
+
+Create a README.md file in your project directory that describes the original performance issues, the optimization techniques applied, and the resulting performance improvement.
+Include any challenges faced during optimization and how they were overcome.
+Provide clear instructions on how to run the optimized scene.
+Submission:
+
+Compress all project files (HTML, JavaScript, README.md) into a single zip file.
+
+Name the zip file as Assignment1_YourName.zip.
+
+Submit the zip file to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Identification of Performance Issues: Did you correctly identify performance issues in the provided scene?
+
+Optimization Techniques: Did you successfully apply optimization techniques such as switching to the WebGLRenderer, optimizing geometries, and implementing LOD?
+
+Maintaining Scene Quality: Did you achieve a significant performance improvement while retaining the visual quality of the scene?
+
+Testing: Does your optimized scene function correctly and provide a smoother user experience on different browsers and devices?
+
+Documentation: Is your README.md well-written and informative, describing the performance issues, optimization techniques, and resulting improvements?
+
+Code Quality: Is your code well-structured, well-documented, and easy to understand?
+
+Submission: Did you submit all required project files in the specified format?

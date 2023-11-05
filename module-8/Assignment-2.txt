@@ -1,0 +1,50 @@
+Conference Attendance
+
+Objective: Attend a Three.js-related conference or meetup.
+
+Instructions:
+
+In this assignment, you will instruct students to attend a Three.js-related conference, webinar, or local meetup. The objective is to provide them with the opportunity to immerse themselves in the Three.js community, learn from experts, and gain valuable insights into the latest developments in the field. Students should choose an event to attend, either virtually or in person (if available), and then write a brief summary of the conference's key topics, speakers, and any valuable insights they gained.
+
+Requirements:
+
+List of Upcoming Events:
+
+Provide students with a list of upcoming Three.js conferences, webinars, or local meetups. You can share this list through your course materials or by directing them to relevant websites and resources.
+Selecting an Event:
+
+Instruct students to choose one event from the list that they would like to attend. They should consider factors such as the event's date, location (virtual or in person), and relevance to their interests and learning goals.
+Attend the Event:
+
+Task students with attending the selected event. They should actively participate in the event by watching presentations, listening to speakers, and engaging with other attendees.
+Summary Report:
+
+After attending the event, students should write a summary report. The report should include:
+A brief overview of the event, including its name, date, location, and organizers.
+A list of key topics discussed during the event.
+Highlights of any notable speakers, their presentations, and key takeaways from their talks.
+Any valuable insights, new knowledge, or trends they learned about during the event.
+Reflection:
+
+Encourage students to reflect on the significance of attending industry events and how it contributes to their professional growth in the field of Three.js development.
+Submission:
+
+Prepare a document (e.g., a PDF or a Google Docs file) that includes the following:
+
+A summary report of the conference or meetup you attended, following the requirements mentioned above.
+A reflection on the importance of attending industry events and the benefits it brings to your development skills.
+Name the document as Assignment2_YourName.pdf or Assignment2_YourName.docx.
+
+Submit the document to the course instructor or upload it to the designated platform.
+
+Grading Criteria:
+
+Your assignment will be graded based on the following criteria:
+
+Event Attendance: Did you attend the selected Three.js-related event virtually or in person?
+
+Summary Report: Did you provide a well-structured summary report of the event, including key topics, speakers, and valuable insights?
+
+Reflection: Did you reflect on the significance of attending industry events and how it contributes to your professional growth?
+
+Submission: Did you submit the document in the specified format with the correct naming convention?
